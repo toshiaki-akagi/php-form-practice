@@ -33,9 +33,9 @@ COACHTECH 教材 Tutorial 7-4「フォームとデータ受け渡し ハンズ�
 - ユーザーから受け取った文字列をHTML出力する場合はXSS対策としてエスケープ処理を行った
 
 ## 動作確認のスクリーンショット
-input.phpの実行結果
+1. input.phpの実行結果
 ![input.phpの実行結果](input_image.png)
-confirm.phpの実行結果
+2. confirm.phpの実行結果
 ![confirm.phpの実行結果](confirm_image.png)
-complete.phpの実行結果
+3. complete.phpの実行結果
 ![complete.phpの実行結果](complete_image.png)
